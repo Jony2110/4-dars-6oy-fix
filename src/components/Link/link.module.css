@@ -1,0 +1,17 @@
+.btn{
+    width: 60px;
+    border-radius: 11px;
+    border: 1px solid rgb(210, 198, 198);
+    height: 60px;
+}
+.btn .img{
+    width: 24px;
+    height: 24px;
+}
+.flex{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+margin-top: 8px;
+
+}
